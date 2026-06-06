@@ -1,0 +1,15 @@
+﻿# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
